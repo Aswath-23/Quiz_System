@@ -1,0 +1,5 @@
+What is the size of int in Java?||4 bytes||2 bytes||8 bytes||1 byte||1
+Which keyword is used for inheritance?||extends||implements||inherits||super||1
+Which of these is not a loop in Java?||for||while||do-while||repeat||4
+What is the default value of a boolean?||true||false||null||0||2
+Which package contains Scanner class?||java.io||java.lang||java.util||java.net||3
